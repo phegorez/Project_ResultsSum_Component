@@ -16,7 +16,7 @@
 
 .container .card {
     width: 80vh;
-    height: 50vh;
+    height: 80vh;
     display: flex;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     border-radius: 2.5vh;
